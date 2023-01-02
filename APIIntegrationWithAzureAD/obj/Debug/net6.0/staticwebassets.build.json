@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tqbgIXGC5duhasjSsKl5JCjI06GCzqCFXDY8FXIF63o=",
+  "Source": "APIIntegrationWithAzureAD",
+  "BasePath": "_content/APIIntegrationWithAzureAD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
